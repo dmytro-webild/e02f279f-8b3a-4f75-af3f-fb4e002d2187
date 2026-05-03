@@ -11,7 +11,7 @@ import FaqDouble from "@/components/sections/faq/FaqDouble";
 import ContactCTA from "@/components/sections/contact/ContactCTA";
 import FooterBaseCard from "@/components/sections/footer/FooterBaseCard";
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
-import { Bot, Brain, Sparkles, User, Wand2, Database, Film, Settings, Search, FileText, Send, CheckCircle, Zap, MessageSquare, CreditCard, Star, HelpCircle, Mail, Activity, Shield, Clock, BarChart3, Layers, GitBranch, Lock, Eye, Languages, Users } from "lucide-react";
+import { Bot, Brain, Sparkles, User, Wand2, Database, Film, Settings, Send, CheckCircle, Zap, MessageSquare, CreditCard, Star, HelpCircle, Mail, GitBranch, Lock, Eye, Languages, Users } from "lucide-react";
 
 export default function AIAgentsTemplatePage() {
     const navItems = [
